@@ -51,7 +51,7 @@ GEMINI_API_KEY=your_api_key_here
 ```
 
 วิธีรับ API Key:
-1. ไปที่ [Google AI Studio](https://makersuite.google.com/app/apikey)
+1. ไปที่ [Google AI Studio](https://sutee-seesing.github.io)
 2. สร้าง API Key ใหม่
 3. Copy และใส่ใน `.env.local`
 
